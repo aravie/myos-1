@@ -1,0 +1,86 @@
+
+
+09/10/2011
+
+Gestion de l'affichage en VGA
+Gestion de la GDT
+Gestion de l'IDT
+Gestion basique du microcontroleur...
+Gestion des évènements clavier
+Gestion de la mémoire (Pagination)
+Gestion d'un tas pour le noyau ac allocation dynamique
+Retour en mode réel
+Interruption en mode réel
+Initialisation de VESA
+Affichage des diffèrent modes supportés par VESA
+Définition d'un mode
+Gestion du bank switching
+Développement d'une bibliothèque personnelle 'MyLibrary'
+	Singleton
+	LinkedList
+	Stack
+	Queue
+	Array
+	Event(s) Management
+
+Gestion poussée des évènements clavier ac les evenement de MyLib
+Virtualisation des évènements
+
+Création d'un drawer pour dessiner à l'écran
+Extension de MyLib	
+	Vector
+	Vector2D
+	String
+Dessin d'un pixel
+Dessin d'un caractère puis d'une chaine
+Dessin d'une ligne droite
+Dessin d'une ligne penchée
+Dessin d'un rectangle
+Extension de MyLib
+	Color
+Dessin de différentes couleur
+
+Gestion des appels systèmes
+Création d'un SystemCall Manager qui se charge d'executer les appels si c'est possible
+Gestion basique d'un première tâche (Task switching)
+Création d'un TasksManager, il fera office d'ordonnanceur pour le multitache
+Création d'un objet Task
+Gestion de la mémoire associée à la tache
+Lancement de la tache qui envoie une appelle système
+
+12/10/2011
+
+Développement d'un système multitâche
+Amélioration du tas noyau
+Apport d'un tas par tâche
+Création d'un nouvel appel système : exit(), permet de quitter les tâches en cours
+Création d'une tâche ROOT
+Gestion des évènements dans cette tâche ROOT
+Lancement de 3 tâches simultanément OK.
+Amélioration des Events
+Multitâche fonctionne sans pb
+
+21/10/2011
+
+Evolution des interruptions en mode réel (création et appel d'un code assembleur).
+Début lecture de fichiers grâce aux interruptions en mode réel.
+
+24/10/2011
+
+Début de création d'un système de fichier (MyFilesystem)
+Création d'une classe periphérique de stockage StorageDevice par laquelle on va lire des fichier, on lui associe un système de fichier
+Correction de bugs sur le rmode.
+
+24/12/2011
+
+Amélioration de mylibrary ( correction de bugs )
+Pb avec taskmanager
+Drawer fonctionne, vecteurs aussi
+
+
+
+
+
+
+
+

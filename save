@@ -1,0 +1,8 @@
+#!/bin/bash
+
+i=`date +%Y%m%d%H%M`
+echo "MyOS is saving in folder $i in OS_SAVES.\n"
+cp -R . ../../OS_SAVES/$i
+echo "MyOS is saved."
+
+
