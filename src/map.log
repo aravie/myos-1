@@ -1,0 +1,1326 @@
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 ../release/obj/ata_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/debug.o
+ .group         0x0000000000000000        0x8 ../release/obj/debug.o
+ .group         0x0000000000000000        0x8 ../release/obj/debug.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/devices_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/drawer.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/event_listener.o
+ .text._ZN6Kernel6mallocEi
+                0x0000000000000000       0x1b ../release/obj/event_listener.o
+ .text._ZN6Kernel4freeEPv
+                0x0000000000000000       0x1b ../release/obj/event_listener.o
+ .text._ZdlPv   0x0000000000000000       0x13 ../release/obj/event_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/heap.o
+ .bss._ZGVZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0x8 ../release/obj/heap.o
+ .text._ZN9SingletonI3VgaE11getInstanceEv
+                0x0000000000000000       0x2d ../release/obj/heap.o
+ .bss._ZZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0xc ../release/obj/heap.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/isr.o
+ .text._ZN6Kernel6mallocEi
+                0x0000000000000000       0x1b ../release/obj/isr.o
+ .text._ZN6Kernel4freeEPv
+                0x0000000000000000       0x1b ../release/obj/isr.o
+ .text._Znwj    0x0000000000000000       0x13 ../release/obj/isr.o
+ .text._ZdaPv   0x0000000000000000       0x13 ../release/obj/isr.o
+ .bss._ZGVZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0x8 ../release/obj/isr.o
+ .text._ZN9SingletonI3VgaE11getInstanceEv
+                0x0000000000000000       0x2d ../release/obj/isr.o
+ .bss._ZZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0xc ../release/obj/isr.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/keyboard_listener.o
+ .text._ZNK9MyLibrary5QueueIP5EventE5countEv
+                0x0000000000000000       0x13 ../release/obj/keyboard_listener.o
+ .text._ZN9MyLibrary5QueueIP5EventE3popEv
+                0x0000000000000000       0x13 ../release/obj/keyboard_listener.o
+ .text._ZNK9MyLibrary10LinkedListIP5EventE5countEv
+                0x0000000000000000        0xa ../release/obj/keyboard_listener.o
+ .text._ZN9MyLibrary10LinkedListIP5EventE8takeLastEv
+                0x0000000000000000       0x2f ../release/obj/keyboard_listener.o
+ .text._ZN9MyLibrary10LinkedListIP5EventE11destroyNodeEPNS3_4NodeE
+                0x0000000000000000       0xcf ../release/obj/keyboard_listener.o
+ .group         0x0000000000000000        0x8 ../release/obj/my_file_system.o
+ .group         0x0000000000000000        0x8 ../release/obj/my_memory_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/my_memory_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/my_memory_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/my_memory_manager.o
+ .group         0x0000000000000000        0x8 ../release/obj/pci_device.o
+ .text._ZN6DeviceC2Ev
+                0x0000000000000000        0x5 ../release/obj/pci_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/storage_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/storage_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/storage_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/storage_device.o
+ .text._ZN6Kernel6mallocEi
+                0x0000000000000000       0x1b ../release/obj/storage_device.o
+ .text._ZN6Kernel4freeEPv
+                0x0000000000000000       0x1b ../release/obj/storage_device.o
+ .text._Znaj    0x0000000000000000       0x13 ../release/obj/storage_device.o
+ .text._ZdlPv   0x0000000000000000       0x13 ../release/obj/storage_device.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/string.o
+ .text._ZN6Kernel6mallocEi
+                0x0000000000000000       0x1b ../release/obj/string.o
+ .text._ZN6Kernel4freeEPv
+                0x0000000000000000       0x1b ../release/obj/string.o
+ .text._Znaj    0x0000000000000000       0x13 ../release/obj/string.o
+ .text._ZdlPv   0x0000000000000000       0x13 ../release/obj/string.o
+ .text._ZdaPv   0x0000000000000000       0x13 ../release/obj/string.o
+ .text._ZN9MyLibrary6StringD2Ev
+                0x0000000000000000       0x13 ../release/obj/string.o
+ .text._ZN9MyLibrary5ArrayIcED2Ev
+                0x0000000000000000       0x31 ../release/obj/string.o
+ .group         0x0000000000000000        0x8 ../release/obj/utils.o
+ .group         0x0000000000000000        0x8 ../release/obj/utils.o
+ .group         0x0000000000000000        0x8 ../release/obj/utils.o
+ .bss._ZGVZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0x8 ../release/obj/utils.o
+ .text._ZN9SingletonI3VgaE11getInstanceEv
+                0x0000000000000000       0x2d ../release/obj/utils.o
+ .bss._ZZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0xc ../release/obj/utils.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vesa.o
+ .bss._ZGVZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0x8 ../release/obj/vesa.o
+ .text._ZN9SingletonI3VgaE11getInstanceEv
+                0x0000000000000000       0x2d ../release/obj/vesa.o
+ .bss._ZZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000000000        0xc ../release/obj/vesa.o
+ .group         0x0000000000000000        0x8 ../release/obj/vga.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../release/obj/ata_device.o
+LOAD ../release/obj/color.o
+LOAD ../release/obj/cursor.o
+LOAD ../release/obj/debug.o
+LOAD ../release/obj/devices_manager.o
+LOAD ../release/obj/drawer.o
+LOAD ../release/obj/event.o
+LOAD ../release/obj/event_listener.o
+LOAD ../release/obj/file_system.o
+LOAD ../release/obj/heap.o
+LOAD ../release/obj/interrupt_handlers.o
+LOAD ../release/obj/isr.o
+LOAD ../release/obj/keyboard_event.o
+LOAD ../release/obj/keyboard_listener.o
+LOAD ../release/obj/memory_manager.o
+LOAD ../release/obj/my_file_system.o
+LOAD ../release/obj/my_memory_manager.o
+LOAD ../release/obj/pci_device.o
+LOAD ../release/obj/pmode_kernel.o
+LOAD ../release/obj/rmode.o
+LOAD ../release/obj/rmode_asm.o
+LOAD ../release/obj/rmode_kernel.o
+LOAD ../release/obj/stdlib.o
+LOAD ../release/obj/storage_device.o
+LOAD ../release/obj/string.o
+LOAD ../release/obj/usb_device.o
+LOAD ../release/obj/utils.o
+LOAD ../release/obj/vesa.o
+LOAD ../release/obj/vga.o
+                0x0000000000008000                phys = 0x8000
+
+.first_of_all   0x0000000000008000      0x1d1
+ *(.first_of_all*)
+ .first_of_all  0x0000000000008000      0x1d1 ../release/obj/rmode_kernel.o
+                0x0000000000008000                _start
+                0x0000000000008084                _start_rmode_kernel
+                0x000000000000819f                cursor_row
+                0x00000000000081a0                cursor_col
+                0x00000000000081a7                ivt_ptr
+                0x00000000000081ad                rgdt_ptr
+                0x00000000000081b3                rgdt_ptr_rmode
+
+.rmode          0x0000000000009000       0xf6
+ *(.rmode*)
+ .rmode         0x0000000000009000       0xf6 ../release/obj/rmode_asm.o
+                0x0000000000009000                rmode_int
+
+.text           0x000000000000a000     0x55c5
+ *(.text*)
+ .text          0x000000000000a000      0x1b1 ../release/obj/ata_device.o
+                0x000000000000a000                ATADevice::ATADevice(int)
+                0x000000000000a000                ATADevice::ATADevice(int)
+                0x000000000000a01c                ATADevice::init(int, int)
+                0x000000000000a074                ATADevice::read(int, int, char*)
+                0x000000000000a114                ATADevice::write(int, int, char const*)
+ *fill*         0x000000000000a1b1        0x1 
+ .text._ZN6DeviceC2Ev
+                0x000000000000a1b2        0x5 ../release/obj/ata_device.o
+                0x000000000000a1b2                Device::Device()
+                0x000000000000a1b2                Device::Device()
+ *fill*         0x000000000000a1b7        0x1 
+ .text          0x000000000000a1b8       0x76 ../release/obj/color.o
+                0x000000000000a1b8                MyLibrary::Color::Color()
+                0x000000000000a1b8                MyLibrary::Color::Color()
+                0x000000000000a1da                MyLibrary::Color::Color(int, int, int, int)
+                0x000000000000a1da                MyLibrary::Color::Color(int, int, int, int)
+                0x000000000000a1fa                MyLibrary::Color::fromRgb(int, int, int, int)
+ *fill*         0x000000000000a22e        0x2 
+ .text          0x000000000000a230      0x232 ../release/obj/cursor.o
+                0x000000000000a230                Cursor::Cursor()
+                0x000000000000a230                Cursor::Cursor()
+                0x000000000000a25c                Cursor::Cursor(int, int)
+                0x000000000000a25c                Cursor::Cursor(int, int)
+                0x000000000000a286                Cursor::setLimits(int, int)
+                0x000000000000a29e                Cursor::setPosition(int, int)
+                0x000000000000a310                Cursor::operator+=(int)
+                0x000000000000a380                Cursor::operator++()
+                0x000000000000a3d6                Cursor::operator++(int)
+                0x000000000000a42a                Cursor::endLine()
+ *fill*         0x000000000000a462        0x2 
+ .text          0x000000000000a464      0x3e2 ../release/obj/debug.o
+                0x000000000000a464                debug(char const*)
+                0x000000000000a480                debug(unsigned char)
+                0x000000000000a4a8                debug(unsigned int)
+                0x000000000000a4d9                printAddr(void*)
+                0x000000000000a556                dumpRegisters
+ .text._ZN9SingletonI3VgaE11getInstanceEv
+                0x000000000000a846       0x2d ../release/obj/debug.o
+                0x000000000000a846                Singleton<Vga>::getInstance()
+ *fill*         0x000000000000a873        0x1 
+ .text          0x000000000000a874      0x192 ../release/obj/devices_manager.o
+                0x000000000000a874                DevicesManager::DevicesManager()
+                0x000000000000a874                DevicesManager::DevicesManager()
+                0x000000000000a892                DevicesManager::scanDevices()
+                0x000000000000a9ea                DevicesManager::device(int)
+ .text._ZNK6Device11getVendorIDEv
+                0x000000000000aa06        0xa ../release/obj/devices_manager.o
+                0x000000000000aa06                Device::getVendorID() const
+ .text._ZNK6Device11getDeviceIDEv
+                0x000000000000aa10        0xb ../release/obj/devices_manager.o
+                0x000000000000aa10                Device::getDeviceID() const
+ *fill*         0x000000000000aa1b        0x1 
+ .text._ZN9SingletonI14DevicesManagerEC2Ev
+                0x000000000000aa1c        0x5 ../release/obj/devices_manager.o
+                0x000000000000aa1c                Singleton<DevicesManager>::Singleton()
+                0x000000000000aa1c                Singleton<DevicesManager>::Singleton()
+ *fill*         0x000000000000aa21        0x1 
+ .text._ZN9MyLibrary10LinkedListIP6DeviceEC2Ev
+                0x000000000000aa22       0x22 ../release/obj/devices_manager.o
+                0x000000000000aa22                MyLibrary::LinkedList<Device*>::LinkedList()
+                0x000000000000aa22                MyLibrary::LinkedList<Device*>::LinkedList()
+ .text._ZN9MyLibrary10LinkedListIP6DeviceE8pushLastERKS2_
+                0x000000000000aa44       0x78 ../release/obj/devices_manager.o
+                0x000000000000aa44                MyLibrary::LinkedList<Device*>::pushLast(Device* const&)
+ .text._ZNK9MyLibrary10LinkedListIP6DeviceE2atEi
+                0x000000000000aabc       0x3a ../release/obj/devices_manager.o
+                0x000000000000aabc                MyLibrary::LinkedList<Device*>::at(int) const
+ .text._ZN9MyLibrary10LinkedListIP6DeviceE10createNodeERKS2_PNS3_4NodeES7_
+                0x000000000000aaf6       0x36 ../release/obj/devices_manager.o
+                0x000000000000aaf6                MyLibrary::LinkedList<Device*>::createNode(Device* const&, MyLibrary::LinkedList<Device*>::Node*, MyLibrary::LinkedList<Device*>::Node*)
+ .text          0x000000000000ab2c      0x93e ../release/obj/drawer.o
+                0x000000000000ab2c                Drawer::Drawer()
+                0x000000000000ab2c                Drawer::Drawer()
+                0x000000000000ab4e                Drawer::setScreenResolution(int, int)
+                0x000000000000abb2                Drawer::setDrawPixelPrimitive(void (*)(unsigned short, unsigned short, unsigned char, unsigned char, unsigned char))
+                0x000000000000abe0                Drawer::drawPixel(int, int, char, char, char)
+                0x000000000000ac3e                Drawer::drawPixel(MyLibrary::Vector2D<int> const&, MyLibrary::Color const&)
+                0x000000000000acc0                Drawer::clearScreen()
+                0x000000000000ad2a                Drawer::drawLine(MyLibrary::Vector2D<int> const&, MyLibrary::Vector2D<int> const&, MyLibrary::Color const&)
+                0x000000000000b0b8                Drawer::drawRectangle(MyLibrary::Vector2D<int> const&, MyLibrary::Vector2D<int> const&, MyLibrary::Color const&)
+                0x000000000000b1c8                Drawer::putChar(unsigned short, unsigned short, unsigned char)
+                0x000000000000b2de                Drawer::putChar(unsigned char)
+                0x000000000000b390                Drawer::print(unsigned short, unsigned short, MyLibrary::String const&)
+                0x000000000000b42c                Drawer::print(MyLibrary::String const&)
+ .text._ZNK6Cursor4getYEv
+                0x000000000000b46a        0xb ../release/obj/drawer.o
+                0x000000000000b46a                Cursor::getY() const
+ *fill*         0x000000000000b475        0x1 
+ .text._ZNK6Cursor4getXEv
+                0x000000000000b476        0xa ../release/obj/drawer.o
+                0x000000000000b476                Cursor::getX() const
+ .text._ZN6Kernel6mallocEi
+                0x000000000000b480       0x1b ../release/obj/drawer.o
+                0x000000000000b480                Kernel::malloc(int)
+ .text._ZN6Kernel4freeEPv
+                0x000000000000b49b       0x1b ../release/obj/drawer.o
+                0x000000000000b49b                Kernel::free(void*)
+ .text._Znaj    0x000000000000b4b6       0x13 ../release/obj/drawer.o
+                0x000000000000b4b6                operator new[](unsigned int)
+ .text._ZdlPv   0x000000000000b4c9       0x13 ../release/obj/drawer.o
+                0x000000000000b4c9                operator delete(void*)
+ .text._ZdaPv   0x000000000000b4dc       0x13 ../release/obj/drawer.o
+                0x000000000000b4dc                operator delete[](void*)
+ *fill*         0x000000000000b4ef        0x1 
+ .text._ZNK9MyLibrary5Color6getRedEv
+                0x000000000000b4f0        0xa ../release/obj/drawer.o
+                0x000000000000b4f0                MyLibrary::Color::getRed() const
+ .text._ZNK9MyLibrary5Color8getGreenEv
+                0x000000000000b4fa        0xb ../release/obj/drawer.o
+                0x000000000000b4fa                MyLibrary::Color::getGreen() const
+ *fill*         0x000000000000b505        0x1 
+ .text._ZNK9MyLibrary5Color7getBlueEv
+                0x000000000000b506        0xb ../release/obj/drawer.o
+                0x000000000000b506                MyLibrary::Color::getBlue() const
+ *fill*         0x000000000000b511        0x1 
+ .text._ZNK9MyLibrary6String4dataEv
+                0x000000000000b512        0xa ../release/obj/drawer.o
+                0x000000000000b512                MyLibrary::String::data() const
+ .text._ZN9SingletonI6DrawerEC2Ev
+                0x000000000000b51c        0x5 ../release/obj/drawer.o
+                0x000000000000b51c                Singleton<Drawer>::Singleton()
+                0x000000000000b51c                Singleton<Drawer>::Singleton()
+ *fill*         0x000000000000b521        0x1 
+ .text._ZN9MyLibrary6VectorIiED2Ev
+                0x000000000000b522       0x13 ../release/obj/drawer.o
+                0x000000000000b522                MyLibrary::Vector<int>::~Vector()
+                0x000000000000b522                MyLibrary::Vector<int>::~Vector()
+ *fill*         0x000000000000b535        0x1 
+ .text._ZN9MyLibrary8Vector2DIiED2Ev
+                0x000000000000b536       0x13 ../release/obj/drawer.o
+                0x000000000000b536                MyLibrary::Vector2D<int>::~Vector2D()
+                0x000000000000b536                MyLibrary::Vector2D<int>::~Vector2D()
+ *fill*         0x000000000000b549        0x1 
+ .text._ZNK9MyLibrary8Vector2DIiE4getXEv
+                0x000000000000b54a       0x1b ../release/obj/drawer.o
+                0x000000000000b54a                MyLibrary::Vector2D<int>::getX() const
+ *fill*         0x000000000000b565        0x1 
+ .text._ZNK9MyLibrary8Vector2DIiE4getYEv
+                0x000000000000b566       0x1b ../release/obj/drawer.o
+                0x000000000000b566                MyLibrary::Vector2D<int>::getY() const
+ *fill*         0x000000000000b581        0x1 
+ .text._ZN9MyLibrary8Vector2DIiEC2ERKiS3_
+                0x000000000000b582       0x3f ../release/obj/drawer.o
+                0x000000000000b582                MyLibrary::Vector2D<int>::Vector2D(int const&, int const&)
+                0x000000000000b582                MyLibrary::Vector2D<int>::Vector2D(int const&, int const&)
+ *fill*         0x000000000000b5c1        0x1 
+ .text._ZN9MyLibrary5ArrayIiED2Ev
+                0x000000000000b5c2       0x31 ../release/obj/drawer.o
+                0x000000000000b5c2                MyLibrary::Array<int>::~Array()
+                0x000000000000b5c2                MyLibrary::Array<int>::~Array()
+ *fill*         0x000000000000b5f3        0x1 
+ .text._ZNK9MyLibrary6VectorIiE12getComponentEi
+                0x000000000000b5f4       0x1a ../release/obj/drawer.o
+                0x000000000000b5f4                MyLibrary::Vector<int>::getComponent(int) const
+ .text._ZN9MyLibrary6VectorIiEC2Ei
+                0x000000000000b60e       0x48 ../release/obj/drawer.o
+                0x000000000000b60e                MyLibrary::Vector<int>::Vector(int)
+                0x000000000000b60e                MyLibrary::Vector<int>::Vector(int)
+ .text._ZN9MyLibrary8Vector2DIiE4setXERKi
+                0x000000000000b656       0x22 ../release/obj/drawer.o
+                0x000000000000b656                MyLibrary::Vector2D<int>::setX(int const&)
+ .text._ZN9MyLibrary8Vector2DIiE4setYERKi
+                0x000000000000b678       0x22 ../release/obj/drawer.o
+                0x000000000000b678                MyLibrary::Vector2D<int>::setY(int const&)
+ .text._ZNK9MyLibrary5ArrayIiEixEi
+                0x000000000000b69a       0x12 ../release/obj/drawer.o
+                0x000000000000b69a                MyLibrary::Array<int>::operator[](int) const
+ .text._ZN9MyLibrary5ArrayIiEC2Ei
+                0x000000000000b6ac       0x4d ../release/obj/drawer.o
+                0x000000000000b6ac                MyLibrary::Array<int>::Array(int)
+                0x000000000000b6ac                MyLibrary::Array<int>::Array(int)
+ *fill*         0x000000000000b6f9        0x1 
+ .text._ZN9MyLibrary5ArrayIiE6resizeEi
+                0x000000000000b6fa       0xda ../release/obj/drawer.o
+                0x000000000000b6fa                MyLibrary::Array<int>::resize(int)
+ .text._ZN9MyLibrary6VectorIiE12setComponentEiRKi
+                0x000000000000b7d4       0x2e ../release/obj/drawer.o
+                0x000000000000b7d4                MyLibrary::Vector<int>::setComponent(int, int const&)
+ .text._ZN9MyLibrary5ArrayIiEixEi
+                0x000000000000b802       0xa5 ../release/obj/drawer.o
+                0x000000000000b802                MyLibrary::Array<int>::operator[](int)
+ *fill*         0x000000000000b8a7        0x1 
+ .text          0x000000000000b8a8       0x17 ../release/obj/event.o
+                0x000000000000b8a8                Event::Event(Event::EventType)
+                0x000000000000b8a8                Event::Event(Event::EventType)
+ *fill*         0x000000000000b8bf        0x1 
+ .text          0x000000000000b8c0       0xb6 ../release/obj/event_listener.o
+                0x000000000000b8c0                EventListener::EventListener()
+                0x000000000000b8c0                EventListener::EventListener()
+                0x000000000000b8ee                EventListener::pushEvent(Event*)
+                0x000000000000b90c                EventListener::flush()
+                0x000000000000b942                EventListener::next()
+ .text._Znwj    0x000000000000b976       0x13 ../release/obj/event_listener.o
+                0x000000000000b976                operator new(unsigned int)
+ *fill*         0x000000000000b989        0x1 
+ .text._ZN9MyLibrary5QueueIP5EventEC2Ev
+                0x000000000000b98a       0x13 ../release/obj/event_listener.o
+                0x000000000000b98a                MyLibrary::Queue<Event*>::Queue()
+                0x000000000000b98a                MyLibrary::Queue<Event*>::Queue()
+ *fill*         0x000000000000b99d        0x1 
+ .text._ZN9MyLibrary10LinkedListIP5EventEC2Ev
+                0x000000000000b99e       0x22 ../release/obj/event_listener.o
+                0x000000000000b99e                MyLibrary::LinkedList<Event*>::LinkedList()
+                0x000000000000b99e                MyLibrary::LinkedList<Event*>::LinkedList()
+ .text._ZN9MyLibrary5QueueIP5EventE4pushERKS2_
+                0x000000000000b9c0       0x1a ../release/obj/event_listener.o
+                0x000000000000b9c0                MyLibrary::Queue<Event*>::push(Event* const&)
+ .text._ZNK9MyLibrary5QueueIP5EventE7isEmptyEv
+                0x000000000000b9da       0x13 ../release/obj/event_listener.o
+                0x000000000000b9da                MyLibrary::Queue<Event*>::isEmpty() const
+ *fill*         0x000000000000b9ed        0x1 
+ .text._ZN9MyLibrary5QueueIP5EventE3popEv
+                0x000000000000b9ee       0x13 ../release/obj/event_listener.o
+                0x000000000000b9ee                MyLibrary::Queue<Event*>::pop()
+ *fill*         0x000000000000ba01        0x1 
+ .text._ZNK9MyLibrary5QueueIP5EventE5countEv
+                0x000000000000ba02       0x13 ../release/obj/event_listener.o
+                0x000000000000ba02                MyLibrary::Queue<Event*>::count() const
+ *fill*         0x000000000000ba15        0x1 
+ .text._ZN9MyLibrary10LinkedListIP5EventE9pushFirstERKS2_
+                0x000000000000ba16       0x6e ../release/obj/event_listener.o
+                0x000000000000ba16                MyLibrary::LinkedList<Event*>::pushFirst(Event* const&)
+ .text._ZNK9MyLibrary10LinkedListIP5EventE7isEmptyEv
+                0x000000000000ba84        0xf ../release/obj/event_listener.o
+                0x000000000000ba84                MyLibrary::LinkedList<Event*>::isEmpty() const
+ *fill*         0x000000000000ba93        0x1 
+ .text._ZN9MyLibrary10LinkedListIP5EventE8takeLastEv
+                0x000000000000ba94       0x2f ../release/obj/event_listener.o
+                0x000000000000ba94                MyLibrary::LinkedList<Event*>::takeLast()
+ *fill*         0x000000000000bac3        0x1 
+ .text._ZNK9MyLibrary10LinkedListIP5EventE5countEv
+                0x000000000000bac4        0xa ../release/obj/event_listener.o
+                0x000000000000bac4                MyLibrary::LinkedList<Event*>::count() const
+ .text._ZN9MyLibrary10LinkedListIP5EventE10createNodeERKS2_PNS3_4NodeES7_
+                0x000000000000bace       0x36 ../release/obj/event_listener.o
+                0x000000000000bace                MyLibrary::LinkedList<Event*>::createNode(Event* const&, MyLibrary::LinkedList<Event*>::Node*, MyLibrary::LinkedList<Event*>::Node*)
+ .text._ZN9MyLibrary10LinkedListIP5EventE11destroyNodeEPNS3_4NodeE
+                0x000000000000bb04       0xcf ../release/obj/event_listener.o
+                0x000000000000bb04                MyLibrary::LinkedList<Event*>::destroyNode(MyLibrary::LinkedList<Event*>::Node*)
+ *fill*         0x000000000000bbd3        0x1 
+ .text          0x000000000000bbd4        0xc ../release/obj/file_system.o
+                0x000000000000bbd4                FileSystem::openFile(int)
+                0x000000000000bbda                FileSystem::closeFile(int)
+ .text          0x000000000000bbe0      0xc5d ../release/obj/heap.o
+                0x000000000000bbe0                Heap::getPageFlags()
+                0x000000000000bc14                Heap::initHeap(Heap::Level, void const*, void const*)
+                0x000000000000bce8                Heap::initHeap2(void const*, void const*)
+                0x000000000000bd8a                Heap::extendHeap(int)
+                0x000000000000be16                Heap::reduceHeap(int)
+                0x000000000000be8e                Heap::cutSpace(HeapSpaceHeader*, unsigned int)
+                0x000000000000c01a                Heap::malloc(unsigned int)
+                0x000000000000c30a                Heap::free(void*)
+                0x000000000000c6c4                Heap::_printHeapState()
+ .text._ZN9SingletonI15MyMemoryManagerE11getInstanceEv
+                0x000000000000c83d       0x2d ../release/obj/heap.o
+                0x000000000000c83d                Singleton<MyMemoryManager>::getInstance()
+ *fill*         0x000000000000c86a        0x6 
+ .text          0x000000000000c870      0x124 ../release/obj/interrupt_handlers.o
+                0x000000000000c870                _page_fault
+                0x000000000000c890                _general_protection_fault
+                0x000000000000c8b0                _irq_0
+                0x000000000000c8d0                _irq_1
+                0x000000000000c8f0                _irq_12
+                0x000000000000c910                _irq_14
+                0x000000000000c930                _irq_15
+                0x000000000000c950                _default_interrupt
+                0x000000000000c970                _system_calls
+ .text          0x000000000000c994      0x268 ../release/obj/isr.o
+                0x000000000000c994                page_fault
+                0x000000000000caab                general_protection_fault
+                0x000000000000cabf                irq_0
+                0x000000000000cafc                irq_1
+                0x000000000000cbb6                system_calls
+                0x000000000000cbd9                irq_12
+                0x000000000000cbde                irq_14
+                0x000000000000cbe3                irq_15
+                0x000000000000cbe8                default_interrupt
+ .text._ZNK12TasksManager12getKernelTSSEv
+                0x000000000000cbfc        0xa ../release/obj/isr.o
+                0x000000000000cbfc                TasksManager::getKernelTSS() const
+ .text._ZN9MyLibrary6StringD2Ev
+                0x000000000000cc06       0x13 ../release/obj/isr.o
+                0x000000000000cc06                MyLibrary::String::~String()
+                0x000000000000cc06                MyLibrary::String::~String()
+ *fill*         0x000000000000cc19        0x1 
+ .text._ZN9SingletonI12TasksManagerEC2Ev
+                0x000000000000cc1a        0x5 ../release/obj/isr.o
+                0x000000000000cc1a                Singleton<TasksManager>::Singleton()
+                0x000000000000cc1a                Singleton<TasksManager>::Singleton()
+ *fill*         0x000000000000cc1f        0x1 
+ .text._ZN12TasksManagerC2Ev
+                0x000000000000cc20       0x1e ../release/obj/isr.o
+                0x000000000000cc20                TasksManager::TasksManager()
+                0x000000000000cc20                TasksManager::TasksManager()
+ .text._ZN9SingletonI12TasksManagerE11getInstanceEv
+                0x000000000000cc3e       0x2d ../release/obj/isr.o
+                0x000000000000cc3e                Singleton<TasksManager>::getInstance()
+ .text._ZN9SingletonI6DrawerE11getInstanceEv
+                0x000000000000cc6b       0x2d ../release/obj/isr.o
+                0x000000000000cc6b                Singleton<Drawer>::getInstance()
+ .text._ZN9MyLibrary5ArrayIcED2Ev
+                0x000000000000cc98       0x31 ../release/obj/isr.o
+                0x000000000000cc98                MyLibrary::Array<char>::~Array()
+                0x000000000000cc98                MyLibrary::Array<char>::~Array()
+ .text._ZN9SingletonI12EventManagerE11getInstanceEv
+                0x000000000000ccc9       0x2d ../release/obj/isr.o
+                0x000000000000ccc9                Singleton<EventManager>::getInstance()
+ .text._ZN9SingletonI18SystemCallsManagerE11getInstanceEv
+                0x000000000000ccf6        0xa ../release/obj/isr.o
+                0x000000000000ccf6                Singleton<SystemCallsManager>::getInstance()
+ .text._ZN9MyLibrary10LinkedListIP4TaskEC2Ev
+                0x000000000000cd00       0x22 ../release/obj/isr.o
+                0x000000000000cd00                MyLibrary::LinkedList<Task*>::LinkedList()
+                0x000000000000cd00                MyLibrary::LinkedList<Task*>::LinkedList()
+ *fill*         0x000000000000cd22        0x2 
+ .text          0x000000000000cd24       0x4d ../release/obj/keyboard_event.o
+                0x000000000000cd24                KeyboardEvent::KeyboardEvent(KeyboardEvent::KeyState, unsigned char)
+                0x000000000000cd24                KeyboardEvent::KeyboardEvent(KeyboardEvent::KeyState, unsigned char)
+                0x000000000000cd58                KeyboardEvent::getLetter() const
+ *fill*         0x000000000000cd71        0x3 
+ .text          0x000000000000cd74      0x174 ../release/obj/keyboard_listener.o
+                0x000000000000cd74                KeyboardListener::KeyboardListener()
+                0x000000000000cd74                KeyboardListener::KeyboardListener()
+                0x000000000000cdac                KeyboardListener::pushEvent(Event*)
+                0x000000000000ce5a                KeyboardListener::next()
+                0x000000000000ceb4                KeyboardListener::enableBuffer(unsigned char*, unsigned int)
+                0x000000000000ced2                KeyboardListener::disableBuffer()
+ .text._ZNK13KeyboardEvent11getKeyStateEv
+                0x000000000000cee8        0xb ../release/obj/keyboard_listener.o
+                0x000000000000cee8                KeyboardEvent::getKeyState() const
+ *fill*         0x000000000000cef3        0x1 
+ .text._ZNK13KeyboardEvent10getKeyCodeEv
+                0x000000000000cef4        0xc ../release/obj/keyboard_listener.o
+                0x000000000000cef4                KeyboardEvent::getKeyCode() const
+ .text._ZNK9MyLibrary5QueueIP5EventE4sizeEv
+                0x000000000000cf00       0x13 ../release/obj/keyboard_listener.o
+                0x000000000000cf00                MyLibrary::Queue<Event*>::size() const
+ *fill*         0x000000000000cf13        0x1 
+ .text          0x000000000000cf14      0x6ea ../release/obj/memory_manager.o
+                0x000000000000cf14                MemoryManager::initMemoryManagement()
+                0x000000000000d010                MemoryManager::initPage(unsigned int*, unsigned short)
+                0x000000000000d0e0                MemoryManager::setPagingEnabled(bool)
+                0x000000000000d116                MemoryManager::setCurrentPageDirectory(unsigned int*)
+                0x000000000000d12a                MemoryManager::getCurrentPageDirectoryEntry(unsigned int)
+                0x000000000000d146                MemoryManager::getCurrentPageTableEntry(unsigned int, unsigned int)
+                0x000000000000d16c                MemoryManager::editCurrentPageDirectoryEntry(unsigned int, unsigned int*, unsigned short)
+                0x000000000000d1a4                MemoryManager::editCurrentPageTableEntry(unsigned int, unsigned int, unsigned int*, unsigned short)
+                0x000000000000d1e6                MemoryManager::editPageEntry(unsigned int*, unsigned int, unsigned int*, unsigned short)
+                0x000000000000d250                MemoryManager::copyPageEntry(unsigned int*, unsigned int*, unsigned int)
+                0x000000000000d2b2                MemoryManager::isPageFree(unsigned int*)
+                0x000000000000d322                MemoryManager::reserveVirtualAddress(unsigned int*, unsigned short)
+                0x000000000000d3fa                MemoryManager::freeVirtualAddress(unsigned int*)
+                0x000000000000d47c                MemoryManager::freeUserPageDirectory(unsigned int*)
+                0x000000000000d482                MemoryManager::createTaskEnvironment(int)
+                0x000000000000d58c                MemoryManager::loadTaskInMemory(Task const&)
+                0x000000000000d5dc                MemoryManager::loadTaskPageDirectory(Task const&)
+ *fill*         0x000000000000d5fe        0x2 
+ .text          0x000000000000d600       0x38 ../release/obj/my_file_system.o
+                0x000000000000d600                MyFileSystem::MyFileSystem()
+                0x000000000000d600                MyFileSystem::MyFileSystem()
+                0x000000000000d614                MyFileSystem::isGood()
+                0x000000000000d61e                MyFileSystem::createFile(char const*)
+                0x000000000000d628                MyFileSystem::removeFile(int)
+                0x000000000000d62e                MyFileSystem::getIdFromFilename(char const*) const
+ .text._ZN10FileSystemC2Ev
+                0x000000000000d638        0x5 ../release/obj/my_file_system.o
+                0x000000000000d638                FileSystem::FileSystem()
+                0x000000000000d638                FileSystem::FileSystem()
+ *fill*         0x000000000000d63d        0x3 
+ .text          0x000000000000d640      0x214 ../release/obj/my_memory_manager.o
+                0x000000000000d640                MyMemoryManager::MyMemoryManager()
+                0x000000000000d640                MyMemoryManager::MyMemoryManager()
+                0x000000000000d68a                MyMemoryManager::getFrame()
+                0x000000000000d76a                MyMemoryManager::reserveFrame(unsigned int*)
+                0x000000000000d7ba                MyMemoryManager::freeFrame(unsigned int*)
+                0x000000000000d810                MyMemoryManager::isFrameFree(unsigned int*)
+ .text._ZN13MemoryManagerC2Ev
+                0x000000000000d854        0xe ../release/obj/my_memory_manager.o
+                0x000000000000d854                MemoryManager::MemoryManager()
+                0x000000000000d854                MemoryManager::MemoryManager()
+ .text._ZN9SingletonI15MyMemoryManagerEC2Ev
+                0x000000000000d862        0x5 ../release/obj/my_memory_manager.o
+                0x000000000000d862                Singleton<MyMemoryManager>::Singleton()
+                0x000000000000d862                Singleton<MyMemoryManager>::Singleton()
+ *fill*         0x000000000000d867        0x1 
+ .text          0x000000000000d868      0x135 ../release/obj/pci_device.o
+                0x000000000000d868                PCIDevice::PCIDevice(int, int)
+                0x000000000000d868                PCIDevice::PCIDevice(int, int)
+                0x000000000000d914                PCIDevice::writeRegister(int, long)
+                0x000000000000d956                PCIDevice::readRegister(int)
+ *fill*         0x000000000000d99d        0x3 
+ .text          0x000000000000d9a0       0x2c ../release/obj/pmode_kernel.o
+                0x000000000000d9a0                _start_pmode_kernel
+ .text          0x000000000000d9cc      0x1ea ../release/obj/rmode.o
+                0x000000000000d9cc                int10x86(X86Regs, X86Regs*)
+                0x000000000000dac1                int13x86(X86Regs, X86Regs*)
+ *fill*         0x000000000000dbb6        0x2 
+ .text          0x000000000000dbb8       0x32 ../release/obj/stdlib.o
+                0x000000000000dbb8                strcpy(char*, char*, int)
+ *fill*         0x000000000000dbea        0x2 
+ .text          0x000000000000dbec      0x1a5 ../release/obj/storage_device.o
+                0x000000000000dbec                StorageDevice::StorageDevice()
+                0x000000000000dbec                StorageDevice::StorageDevice()
+                0x000000000000dc8e                StorageDevice::readSector(int, char*)
+                0x000000000000dd10                StorageDevice::writeSector(int, char*)
+ *fill*         0x000000000000dd91        0x3 
+ .text          0x000000000000dd94      0x5f3 ../release/obj/string.o
+                0x000000000000dd94                MyLibrary::String::String()
+                0x000000000000dd94                MyLibrary::String::String()
+                0x000000000000ddbe                MyLibrary::String::String(MyLibrary::String const&)
+                0x000000000000ddbe                MyLibrary::String::String(MyLibrary::String const&)
+                0x000000000000de2e                MyLibrary::String::String(char const*)
+                0x000000000000de2e                MyLibrary::String::String(char const*)
+                0x000000000000decc                MyLibrary::String::operator=(char const*)
+                0x000000000000df52                MyLibrary::String::operator=(MyLibrary::String const&)
+                0x000000000000dfa4                MyLibrary::String::operator+=(MyLibrary::String const&)
+                0x000000000000e0b4                MyLibrary::String::operator+=(char const*)
+                0x000000000000e0f5                MyLibrary::operator+(MyLibrary::String const&, MyLibrary::String const&)
+                0x000000000000e127                MyLibrary::operator+(char const*, MyLibrary::String const&)
+                0x000000000000e159                MyLibrary::operator+(MyLibrary::String const&, char const*)
+                0x000000000000e18c                MyLibrary::String::fromUtf8(char const*)
+                0x000000000000e1ac                MyLibrary::String::fromNumber(unsigned int, int)
+                0x000000000000e326                MyLibrary::String::operator==(MyLibrary::String const&) const
+ *fill*         0x000000000000e387        0x1 
+ .text._ZN9MyLibrary5ArrayIcEC2Ev
+                0x000000000000e388       0x18 ../release/obj/string.o
+                0x000000000000e388                MyLibrary::Array<char>::Array()
+                0x000000000000e388                MyLibrary::Array<char>::Array()
+ .text._ZN9MyLibrary5ArrayIcE6resizeEi
+                0x000000000000e3a0       0xbd ../release/obj/string.o
+                0x000000000000e3a0                MyLibrary::Array<char>::resize(int)
+ *fill*         0x000000000000e45d        0x3 
+ .text          0x000000000000e460       0x4f ../release/obj/usb_device.o
+                0x000000000000e460                UsbDevice::UsbDevice(PCIDevice const&)
+                0x000000000000e460                UsbDevice::UsbDevice(PCIDevice const&)
+                0x000000000000e48e                UsbDevice::UsbDevice(int, int)
+                0x000000000000e48e                UsbDevice::UsbDevice(int, int)
+ *fill*         0x000000000000e4af        0x1 
+ .text          0x000000000000e4b0      0x17d ../release/obj/utils.o
+                0x000000000000e4b0                convert_nb_to_string(unsigned int, char*)
+                0x000000000000e5a4                memcpy(char*, char*, unsigned int)
+                0x000000000000e5d6                dump(unsigned char*, unsigned int)
+ *fill*         0x000000000000e62d        0x3 
+ .text          0x000000000000e630      0x908 ../release/obj/vesa.o
+                0x000000000000e630                Vesa::Vesa()
+                0x000000000000e630                Vesa::Vesa()
+                0x000000000000e6ae                Vesa::queryVbeInfoBlock()
+                0x000000000000e702                Vesa::getModeInfoBlock(unsigned short, ModeInfoBlock*)
+                0x000000000000e76e                Vesa::printModeInformation(unsigned short)
+                0x000000000000eacc                Vesa::setMode(unsigned short)
+                0x000000000000ec12                Vesa::getVesaVersion(char*)
+                0x000000000000ec84                Vesa::printModeList()
+                0x000000000000ed2e                Vesa::getMemorySize()
+                0x000000000000ed4a                Vesa::switchToBank(int)
+                0x000000000000edb0                Vesa::putPixel(unsigned short, unsigned short, unsigned char, unsigned char, unsigned char)
+                0x000000000000eec6                Vesa::drawPixel(unsigned short, unsigned short, unsigned char, unsigned char, unsigned char)
+ .text._ZN9SingletonI4VesaEC2Ev
+                0x000000000000ef38        0x5 ../release/obj/vesa.o
+                0x000000000000ef38                Singleton<Vesa>::Singleton()
+                0x000000000000ef38                Singleton<Vesa>::Singleton()
+ .text._ZN9SingletonI4VesaE11getInstanceEv
+                0x000000000000ef3d       0x2d ../release/obj/vesa.o
+                0x000000000000ef3d                Singleton<Vesa>::getInstance()
+ *fill*         0x000000000000ef6a        0x2 
+ .text          0x000000000000ef6c      0x654 ../release/obj/vga.o
+                0x000000000000ef6c                Vga::Vga()
+                0x000000000000ef6c                Vga::Vga()
+                0x000000000000ef98                Vga::cleanScreen()
+                0x000000000000effc                Vga::setBackgroundColor(Vga::Color)
+                0x000000000000f03c                Vga::setForegroundColor(Vga::Color)
+                0x000000000000f07e                Vga::scrollup(int)
+                0x000000000000f11c                Vga::putChar(unsigned char, Vga::Color, Vga::Color)
+                0x000000000000f218                Vga::putHex(unsigned char, Vga::Color, Vga::Color)
+                0x000000000000f2ac                Vga::putHex(unsigned int)
+                0x000000000000f320                Vga::putHex(unsigned short)
+                0x000000000000f39c                Vga::putHex(unsigned char)
+                0x000000000000f3d0                Vga::putNb(unsigned int, Vga::Color, Vga::Color)
+                0x000000000000f40a                Vga::putNb(unsigned int)
+                0x000000000000f438                Vga::putChar(unsigned char)
+                0x000000000000f46c                Vga::putChar(unsigned char, Vga::Color)
+                0x000000000000f49e                Vga::print(char const*, Vga::Color, Vga::Color)
+                0x000000000000f4f4                Vga::print(char const*)
+                0x000000000000f522                Vga::print(char const*, Vga::Color)
+                0x000000000000f54c                Vga::printAddress(void*)
+ .text._ZN9SingletonI3VgaEC2Ev
+                0x000000000000f5c0        0x5 ../release/obj/vga.o
+                0x000000000000f5c0                Singleton<Vga>::Singleton()
+                0x000000000000f5c0                Singleton<Vga>::Singleton()
+ *(.gnu.linkonce.t*)
+
+.iplt           0x000000000000f5d0        0x0
+ .iplt          0x0000000000000000        0x0 ../release/obj/ata_device.o
+
+.rodata         0x0000000000010000      0xf03
+                0x0000000000010000                start_ctors = .
+ *(.ctor*)
+                0x0000000000010000                end_ctors = .
+                0x0000000000010000                start_dtors = .
+ *(.dtor*)
+                0x0000000000010000                end_dtors = .
+ *(.rodata*)
+ .rodata        0x0000000000010000       0x59 ../release/obj/debug.o
+ *fill*         0x0000000000010059        0x3 
+ .rodata        0x000000000001005c        0xc ../release/obj/drawer.o
+ .rodata._ZTV13EventListener
+                0x0000000000010068       0x10 ../release/obj/event_listener.o
+                0x0000000000010068                vtable for EventListener
+ .rodata        0x0000000000010078       0x36 ../release/obj/heap.o
+ .rodata        0x00000000000100ae       0x52 ../release/obj/isr.o
+ .rodata._ZTV16KeyboardListener
+                0x0000000000010100       0x10 ../release/obj/keyboard_listener.o
+                0x0000000000010100                vtable for KeyboardListener
+ .rodata._ZTV15MyMemoryManager
+                0x0000000000010110       0x18 ../release/obj/my_memory_manager.o
+                0x0000000000010110                vtable for MyMemoryManager
+ .rodata._ZTV13MemoryManager
+                0x0000000000010128       0x18 ../release/obj/my_memory_manager.o
+                0x0000000000010128                vtable for MemoryManager
+ .rodata        0x0000000000010140        0x3 ../release/obj/string.o
+ *fill*         0x0000000000010143       0x1d 
+ .rodata        0x0000000000010160      0xda0 ../release/obj/vesa.o
+ .rodata        0x0000000000010f00        0x3 ../release/obj/vga.o
+ *(.gnu.linkonce.r*)
+
+.eh_frame       0x0000000000010f04     0x1c98
+ .eh_frame      0x0000000000010f04       0xb8 ../release/obj/ata_device.o
+ .eh_frame      0x0000000000010fbc       0x60 ../release/obj/color.o
+                                         0x78 (size before relaxing)
+ .eh_frame      0x000000000001101c      0x108 ../release/obj/cursor.o
+                                        0x120 (size before relaxing)
+ .eh_frame      0x0000000000011124       0xd0 ../release/obj/debug.o
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x00000000000111f4      0x148 ../release/obj/devices_manager.o
+                                        0x160 (size before relaxing)
+ .eh_frame      0x000000000001133c      0x524 ../release/obj/drawer.o
+                                        0x53c (size before relaxing)
+ .eh_frame      0x0000000000011860       0x20 ../release/obj/event.o
+                                         0x38 (size before relaxing)
+ .eh_frame      0x0000000000011880      0x220 ../release/obj/event_listener.o
+                                        0x298 (size before relaxing)
+ .eh_frame      0x0000000000011aa0       0x40 ../release/obj/file_system.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000011ae0      0x178 ../release/obj/heap.o
+                                        0x1b0 (size before relaxing)
+ .eh_frame      0x0000000000011c58      0x25c ../release/obj/isr.o
+                                        0x314 (size before relaxing)
+ .eh_frame      0x0000000000011eb4       0x40 ../release/obj/keyboard_event.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000011ef4      0x104 ../release/obj/keyboard_listener.o
+                                        0x1bc (size before relaxing)
+ .eh_frame      0x0000000000011ff8      0x224 ../release/obj/memory_manager.o
+                                        0x23c (size before relaxing)
+ .eh_frame      0x000000000001221c       0xc0 ../release/obj/my_file_system.o
+                                         0xd8 (size before relaxing)
+ .eh_frame      0x00000000000122dc       0xe0 ../release/obj/my_memory_manager.o
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x00000000000123bc       0x60 ../release/obj/pci_device.o
+                                         0x98 (size before relaxing)
+ .eh_frame      0x000000000001241c       0x40 ../release/obj/rmode.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x000000000001245c       0x20 ../release/obj/stdlib.o
+                                         0x38 (size before relaxing)
+ .eh_frame      0x000000000001247c       0x60 ../release/obj/storage_device.o
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x00000000000124dc      0x1ec ../release/obj/string.o
+                                        0x2e4 (size before relaxing)
+ .eh_frame      0x00000000000126c8       0x40 ../release/obj/usb_device.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x0000000000012708       0x64 ../release/obj/utils.o
+                                         0x9c (size before relaxing)
+ .eh_frame      0x000000000001276c      0x1d0 ../release/obj/vesa.o
+                                        0x208 (size before relaxing)
+ .eh_frame      0x000000000001293c      0x260 ../release/obj/vga.o
+                                        0x278 (size before relaxing)
+
+.rel.dyn        0x0000000000012b9c        0x0
+ .rel.iplt      0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text      0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9SingletonI3VgaE11getInstanceEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP6DeviceE8pushLastERKS2_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP6DeviceE10createNodeERKS2_PNS3_4NodeES7_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN6Kernel6mallocEi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN6Kernel4freeEPv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._Znaj
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZdlPv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZdaPv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary6VectorIiED2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary8Vector2DIiED2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary8Vector2DIiE4getXEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary8Vector2DIiE4getYEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary8Vector2DIiEC2ERKiS3_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIiED2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary6VectorIiE12getComponentEi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary6VectorIiEC2Ei
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary8Vector2DIiE4setXERKi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary8Vector2DIiE4setYERKi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIiEC2Ei
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIiE6resizeEi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary6VectorIiE12setComponentEiRKi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIiEixEi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._Znwj
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5QueueIP5EventEC2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5QueueIP5EventE4pushERKS2_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary5QueueIP5EventE7isEmptyEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5QueueIP5EventE3popEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary5QueueIP5EventE5countEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP5EventE9pushFirstERKS2_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP5EventE8takeLastEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP5EventE10createNodeERKS2_PNS3_4NodeES7_
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary10LinkedListIP5EventE11destroyNodeEPNS3_4NodeE
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9SingletonI15MyMemoryManagerE11getInstanceEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK12TasksManager12getKernelTSSEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary6StringD2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN12TasksManagerC2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9SingletonI12TasksManagerE11getInstanceEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIcED2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9SingletonI12EventManagerE11getInstanceEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZNK9MyLibrary5QueueIP5EventE4sizeEv
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN13MemoryManagerC2Ev
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.rodata._ZTV13MemoryManager
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.rmode     0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .rel.text._ZN9MyLibrary5ArrayIcE6resizeEi
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+
+.data           0x0000000000013000      0xa60
+ *(.data*)
+ .data          0x0000000000013000        0x0 ../release/obj/ata_device.o
+ .data          0x0000000000013000        0x0 ../release/obj/color.o
+ .data          0x0000000000013000        0x0 ../release/obj/cursor.o
+ .data          0x0000000000013000        0x0 ../release/obj/debug.o
+ .data          0x0000000000013000        0x0 ../release/obj/devices_manager.o
+ .data          0x0000000000013000      0x900 ../release/obj/drawer.o
+                0x0000000000013000                font_table_maj
+ .data          0x0000000000013900        0x0 ../release/obj/event.o
+ .data          0x0000000000013900        0x0 ../release/obj/event_listener.o
+ .data          0x0000000000013900        0x0 ../release/obj/file_system.o
+ .data          0x0000000000013900        0x0 ../release/obj/heap.o
+ .data          0x0000000000013900        0x0 ../release/obj/isr.o
+ .data          0x0000000000013900      0x160 ../release/obj/keyboard_event.o
+                0x0000000000013900                keymap_azerty
+ .data          0x0000000000013a60        0x0 ../release/obj/keyboard_listener.o
+ .data          0x0000000000013a60        0x0 ../release/obj/memory_manager.o
+ .data          0x0000000000013a60        0x0 ../release/obj/my_file_system.o
+ .data          0x0000000000013a60        0x0 ../release/obj/my_memory_manager.o
+ .data          0x0000000000013a60        0x0 ../release/obj/pci_device.o
+ .data          0x0000000000013a60        0x0 ../release/obj/rmode.o
+ .data          0x0000000000013a60        0x0 ../release/obj/stdlib.o
+ .data          0x0000000000013a60        0x0 ../release/obj/storage_device.o
+ .data          0x0000000000013a60        0x0 ../release/obj/string.o
+ .data          0x0000000000013a60        0x0 ../release/obj/usb_device.o
+ .data          0x0000000000013a60        0x0 ../release/obj/utils.o
+ .data          0x0000000000013a60        0x0 ../release/obj/vesa.o
+ .data          0x0000000000013a60        0x0 ../release/obj/vga.o
+ *(.gnu.linkonce.d*)
+
+.igot.plt       0x0000000000013a60        0x0
+ .igot.plt      0x0000000000000000        0x0 ../release/obj/ata_device.o
+
+.bss            0x0000000000014000     0x23e4
+ *(.COMMON*)
+ *(.bss*)
+ .bss           0x0000000000014000        0x0 ../release/obj/ata_device.o
+ .bss           0x0000000000014000        0x0 ../release/obj/color.o
+ .bss           0x0000000000014000        0x0 ../release/obj/cursor.o
+ .bss           0x0000000000014000        0x0 ../release/obj/debug.o
+ .bss._ZGVZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000014000        0x8 ../release/obj/debug.o
+                0x0000000000014000                guard variable for Singleton<Vga>::getInstance()::obj
+ .bss._ZZN9SingletonI3VgaE11getInstanceEvE3obj
+                0x0000000000014008        0xc ../release/obj/debug.o
+                0x0000000000014008                Singleton<Vga>::getInstance()::obj
+ .bss           0x0000000000014014        0x0 ../release/obj/devices_manager.o
+ .bss           0x0000000000014014        0x0 ../release/obj/drawer.o
+ .bss           0x0000000000014014        0x0 ../release/obj/event.o
+ .bss           0x0000000000014014        0x0 ../release/obj/event_listener.o
+ .bss           0x0000000000014014        0x0 ../release/obj/file_system.o
+ .bss           0x0000000000014014        0x0 ../release/obj/heap.o
+ *fill*         0x0000000000014014        0x4 
+ .bss._ZGVZN9SingletonI15MyMemoryManagerE11getInstanceEvE3obj
+                0x0000000000014018        0x8 ../release/obj/heap.o
+                0x0000000000014018                guard variable for Singleton<MyMemoryManager>::getInstance()::obj
+ .bss._ZZN9SingletonI15MyMemoryManagerE11getInstanceEvE3obj
+                0x0000000000014020     0x200c ../release/obj/heap.o
+                0x0000000000014020                Singleton<MyMemoryManager>::getInstance()::obj
+ *fill*         0x000000000001602c       0x14 
+ .bss           0x0000000000016040      0x104 ../release/obj/isr.o
+                0x0000000000016040                keyboard_buffer
+                0x0000000000016140                bcursor
+ *fill*         0x0000000000016144        0x4 
+ .bss._ZGVZN9SingletonI12TasksManagerE11getInstanceEvE3obj
+                0x0000000000016148        0x8 ../release/obj/isr.o
+                0x0000000000016148                guard variable for Singleton<TasksManager>::getInstance()::obj
+ .bss._ZGVZN9SingletonI6DrawerE11getInstanceEvE3obj
+                0x0000000000016150        0x8 ../release/obj/isr.o
+                0x0000000000016150                guard variable for Singleton<Drawer>::getInstance()::obj
+ .bss._ZGVZN9SingletonI12EventManagerE11getInstanceEvE3obj
+                0x0000000000016158        0x8 ../release/obj/isr.o
+                0x0000000000016158                guard variable for Singleton<EventManager>::getInstance()::obj
+ .bss._ZZN9SingletonI12TasksManagerE11getInstanceEvE3obj
+                0x0000000000016160       0x18 ../release/obj/isr.o
+                0x0000000000016160                Singleton<TasksManager>::getInstance()::obj
+ .bss._ZZN9SingletonI6DrawerE11getInstanceEvE3obj
+                0x0000000000016178       0x1c ../release/obj/isr.o
+                0x0000000000016178                Singleton<Drawer>::getInstance()::obj
+ .bss._ZZN9SingletonI12EventManagerE11getInstanceEvE3obj
+                0x0000000000016194       0x1c ../release/obj/isr.o
+                0x0000000000016194                Singleton<EventManager>::getInstance()::obj
+ .bss._ZZN9SingletonI18SystemCallsManagerE11getInstanceEvE3obj
+                0x00000000000161b0        0x1 ../release/obj/isr.o
+                0x00000000000161b0                Singleton<SystemCallsManager>::getInstance()::obj
+ *fill*         0x00000000000161b1        0x3 
+ .bss           0x00000000000161b4        0x0 ../release/obj/keyboard_event.o
+ .bss           0x00000000000161b4        0x0 ../release/obj/keyboard_listener.o
+ .bss           0x00000000000161b4        0x5 ../release/obj/memory_manager.o
+                0x00000000000161b4                MemoryManager::kernelPageDirectory
+                0x00000000000161b8                MemoryManager::paging_enabled
+ *fill*         0x00000000000161b9        0x3 
+ .bss           0x00000000000161bc        0x0 ../release/obj/my_file_system.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/my_memory_manager.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/pci_device.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/rmode.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/stdlib.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/storage_device.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/string.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/usb_device.o
+ .bss           0x00000000000161bc        0x0 ../release/obj/utils.o
+ *fill*         0x00000000000161bc        0x4 
+ .bss           0x00000000000161c0      0x204 ../release/obj/vesa.o
+                0x00000000000161c0                Vesa::vbeInfoBlock
+                0x00000000000163c0                Vesa::pixel_cursor
+ *fill*         0x00000000000163c4        0x4 
+ .bss._ZGVZN9SingletonI4VesaE11getInstanceEvE3obj
+                0x00000000000163c8        0x8 ../release/obj/vesa.o
+                0x00000000000163c8                guard variable for Singleton<Vesa>::getInstance()::obj
+ .bss._ZZN9SingletonI4VesaE11getInstanceEvE3obj
+                0x00000000000163d0       0x14 ../release/obj/vesa.o
+                0x00000000000163d0                Singleton<Vesa>::getInstance()::obj
+ .bss           0x00000000000163e4        0x0 ../release/obj/vga.o
+ *(.gnu.linkonce.b*)
+                0x00000000000163e4                end = .
+OUTPUT(../release/obj/temp/kernel_elf.o elf32-i386)
+
+.debug_info     0x0000000000000000     0xdb68
+ .debug_info    0x0000000000000000      0x401 ../release/obj/ata_device.o
+ .debug_info    0x0000000000000401      0x311 ../release/obj/color.o
+ .debug_info    0x0000000000000712      0x3c2 ../release/obj/cursor.o
+ .debug_info    0x0000000000000ad4      0x5dc ../release/obj/debug.o
+ .debug_info    0x00000000000010b0      0x8f1 ../release/obj/devices_manager.o
+ .debug_info    0x00000000000019a1     0x1f24 ../release/obj/drawer.o
+ .debug_info    0x00000000000038c5      0x121 ../release/obj/event.o
+ .debug_info    0x00000000000039e6      0xccc ../release/obj/event_listener.o
+ .debug_info    0x00000000000046b2      0x106 ../release/obj/file_system.o
+ .debug_info    0x00000000000047b8      0xa5a ../release/obj/heap.o
+ .debug_info    0x0000000000005212     0x2754 ../release/obj/isr.o
+ .debug_info    0x0000000000007966      0x290 ../release/obj/keyboard_event.o
+ .debug_info    0x0000000000007bf6      0xa00 ../release/obj/keyboard_listener.o
+ .debug_info    0x00000000000085f6      0xcfa ../release/obj/memory_manager.o
+ .debug_info    0x00000000000092f0      0x2e5 ../release/obj/my_file_system.o
+ .debug_info    0x00000000000095d5      0x856 ../release/obj/my_memory_manager.o
+ .debug_info    0x0000000000009e2b      0x398 ../release/obj/pci_device.o
+ .debug_info    0x000000000000a1c3      0x142 ../release/obj/rmode.o
+ .debug_info    0x000000000000a305       0xa9 ../release/obj/stdlib.o
+ .debug_info    0x000000000000a3ae      0x6b3 ../release/obj/storage_device.o
+ .debug_info    0x000000000000aa61      0xf64 ../release/obj/string.o
+ .debug_info    0x000000000000b9c5      0x2a0 ../release/obj/usb_device.o
+ .debug_info    0x000000000000bc65      0x578 ../release/obj/utils.o
+ .debug_info    0x000000000000c1dd      0xf02 ../release/obj/vesa.o
+ .debug_info    0x000000000000d0df      0xa89 ../release/obj/vga.o
+
+.debug_abbrev   0x0000000000000000     0x36f8
+ .debug_abbrev  0x0000000000000000      0x1df ../release/obj/ata_device.o
+ .debug_abbrev  0x00000000000001df      0x15a ../release/obj/color.o
+ .debug_abbrev  0x0000000000000339      0x161 ../release/obj/cursor.o
+ .debug_abbrev  0x000000000000049a      0x1c1 ../release/obj/debug.o
+ .debug_abbrev  0x000000000000065b      0x289 ../release/obj/devices_manager.o
+ .debug_abbrev  0x00000000000008e4      0x42a ../release/obj/drawer.o
+ .debug_abbrev  0x0000000000000d0e       0xf4 ../release/obj/event.o
+ .debug_abbrev  0x0000000000000e02      0x3ee ../release/obj/event_listener.o
+ .debug_abbrev  0x00000000000011f0       0xe8 ../release/obj/file_system.o
+ .debug_abbrev  0x00000000000012d8      0x23d ../release/obj/heap.o
+ .debug_abbrev  0x0000000000001515      0x49d ../release/obj/isr.o
+ .debug_abbrev  0x00000000000019b2      0x18f ../release/obj/keyboard_event.o
+ .debug_abbrev  0x0000000000001b41      0x2c9 ../release/obj/keyboard_listener.o
+ .debug_abbrev  0x0000000000001e0a      0x236 ../release/obj/memory_manager.o
+ .debug_abbrev  0x0000000000002040      0x1b6 ../release/obj/my_file_system.o
+ .debug_abbrev  0x00000000000021f6      0x2f9 ../release/obj/my_memory_manager.o
+ .debug_abbrev  0x00000000000024ef      0x1fa ../release/obj/pci_device.o
+ .debug_abbrev  0x00000000000026e9       0xac ../release/obj/rmode.o
+ .debug_abbrev  0x0000000000002795       0x83 ../release/obj/stdlib.o
+ .debug_abbrev  0x0000000000002818      0x2db ../release/obj/storage_device.o
+ .debug_abbrev  0x0000000000002af3      0x390 ../release/obj/string.o
+ .debug_abbrev  0x0000000000002e83      0x165 ../release/obj/usb_device.o
+ .debug_abbrev  0x0000000000002fe8      0x1dd ../release/obj/utils.o
+ .debug_abbrev  0x00000000000031c5      0x2e4 ../release/obj/vesa.o
+ .debug_abbrev  0x00000000000034a9      0x24f ../release/obj/vga.o
+
+.debug_aranges  0x0000000000000000      0x638
+ .debug_aranges
+                0x0000000000000000       0x28 ../release/obj/ata_device.o
+ .debug_aranges
+                0x0000000000000028       0x20 ../release/obj/color.o
+ .debug_aranges
+                0x0000000000000048       0x20 ../release/obj/cursor.o
+ .debug_aranges
+                0x0000000000000068       0x28 ../release/obj/debug.o
+ .debug_aranges
+                0x0000000000000090       0x58 ../release/obj/devices_manager.o
+ .debug_aranges
+                0x00000000000000e8       0xf8 ../release/obj/drawer.o
+ .debug_aranges
+                0x00000000000001e0       0x20 ../release/obj/event.o
+ .debug_aranges
+                0x0000000000000200       0xa0 ../release/obj/event_listener.o
+ .debug_aranges
+                0x00000000000002a0       0x20 ../release/obj/file_system.o
+ .debug_aranges
+                0x00000000000002c0       0x30 ../release/obj/heap.o
+ .debug_aranges
+                0x00000000000002f0       0x98 ../release/obj/isr.o
+ .debug_aranges
+                0x0000000000000388       0x20 ../release/obj/keyboard_event.o
+ .debug_aranges
+                0x00000000000003a8       0x60 ../release/obj/keyboard_listener.o
+ .debug_aranges
+                0x0000000000000408       0x20 ../release/obj/memory_manager.o
+ .debug_aranges
+                0x0000000000000428       0x28 ../release/obj/my_file_system.o
+ .debug_aranges
+                0x0000000000000450       0x30 ../release/obj/my_memory_manager.o
+ .debug_aranges
+                0x0000000000000480       0x28 ../release/obj/pci_device.o
+ .debug_aranges
+                0x00000000000004a8       0x20 ../release/obj/rmode.o
+ .debug_aranges
+                0x00000000000004c8       0x20 ../release/obj/stdlib.o
+ .debug_aranges
+                0x00000000000004e8       0x40 ../release/obj/storage_device.o
+ .debug_aranges
+                0x0000000000000528       0x68 ../release/obj/string.o
+ .debug_aranges
+                0x0000000000000590       0x20 ../release/obj/usb_device.o
+ .debug_aranges
+                0x00000000000005b0       0x28 ../release/obj/utils.o
+ .debug_aranges
+                0x00000000000005d8       0x38 ../release/obj/vesa.o
+ .debug_aranges
+                0x0000000000000610       0x28 ../release/obj/vga.o
+
+.debug_ranges   0x0000000000000000      0x418
+ .debug_ranges  0x0000000000000000       0x18 ../release/obj/ata_device.o
+ .debug_ranges  0x0000000000000018       0x18 ../release/obj/debug.o
+ .debug_ranges  0x0000000000000030       0x48 ../release/obj/devices_manager.o
+ .debug_ranges  0x0000000000000078       0xe8 ../release/obj/drawer.o
+ .debug_ranges  0x0000000000000160       0x90 ../release/obj/event_listener.o
+ .debug_ranges  0x00000000000001f0       0x20 ../release/obj/heap.o
+ .debug_ranges  0x0000000000000210       0x88 ../release/obj/isr.o
+ .debug_ranges  0x0000000000000298       0x50 ../release/obj/keyboard_listener.o
+ .debug_ranges  0x00000000000002e8       0x18 ../release/obj/my_file_system.o
+ .debug_ranges  0x0000000000000300       0x20 ../release/obj/my_memory_manager.o
+ .debug_ranges  0x0000000000000320       0x18 ../release/obj/pci_device.o
+ .debug_ranges  0x0000000000000338       0x30 ../release/obj/storage_device.o
+ .debug_ranges  0x0000000000000368       0x58 ../release/obj/string.o
+ .debug_ranges  0x00000000000003c0       0x18 ../release/obj/utils.o
+ .debug_ranges  0x00000000000003d8       0x28 ../release/obj/vesa.o
+ .debug_ranges  0x0000000000000400       0x18 ../release/obj/vga.o
+
+.debug_line     0x0000000000000000     0x236e
+ .debug_line    0x0000000000000000       0xea ../release/obj/ata_device.o
+ .debug_line    0x00000000000000ea       0x59 ../release/obj/color.o
+ .debug_line    0x0000000000000143       0x8d ../release/obj/cursor.o
+ .debug_line    0x00000000000001d0      0x129 ../release/obj/debug.o
+ .debug_line    0x00000000000002f9      0x1b9 ../release/obj/devices_manager.o
+ .debug_line    0x00000000000004b2      0x54a ../release/obj/drawer.o
+ .debug_line    0x00000000000009fc       0x4e ../release/obj/event.o
+ .debug_line    0x0000000000000a4a      0x257 ../release/obj/event_listener.o
+ .debug_line    0x0000000000000ca1       0x5c ../release/obj/file_system.o
+ .debug_line    0x0000000000000cfd      0x1ff ../release/obj/heap.o
+ .debug_line    0x0000000000000efc      0x357 ../release/obj/isr.o
+ .debug_line    0x0000000000001253       0x8b ../release/obj/keyboard_event.o
+ .debug_line    0x00000000000012de      0x1a5 ../release/obj/keyboard_listener.o
+ .debug_line    0x0000000000001483      0x1ba ../release/obj/memory_manager.o
+ .debug_line    0x000000000000163d       0x8d ../release/obj/my_file_system.o
+ .debug_line    0x00000000000016ca      0x134 ../release/obj/my_memory_manager.o
+ .debug_line    0x00000000000017fe       0x90 ../release/obj/pci_device.o
+ .debug_line    0x000000000000188e       0x8f ../release/obj/rmode.o
+ .debug_line    0x000000000000191d       0x4c ../release/obj/stdlib.o
+ .debug_line    0x0000000000001969      0x169 ../release/obj/storage_device.o
+ .debug_line    0x0000000000001ad2      0x2e6 ../release/obj/string.o
+ .debug_line    0x0000000000001db8       0x79 ../release/obj/usb_device.o
+ .debug_line    0x0000000000001e31      0x136 ../release/obj/utils.o
+ .debug_line    0x0000000000001f67      0x1e7 ../release/obj/vesa.o
+ .debug_line    0x000000000000214e      0x220 ../release/obj/vga.o
+
+.debug_str      0x0000000000000000     0x48ce
+ .debug_str     0x0000000000000000      0x23b ../release/obj/ata_device.o
+                                        0x25b (size before relaxing)
+ .debug_str     0x000000000000023b      0x1fd ../release/obj/color.o
+                                        0x292 (size before relaxing)
+ .debug_str     0x0000000000000438      0x19d ../release/obj/cursor.o
+                                        0x233 (size before relaxing)
+ .debug_str     0x00000000000005d5      0x3df ../release/obj/debug.o
+                                        0x4cd (size before relaxing)
+ .debug_str     0x00000000000009b4      0x64a ../release/obj/devices_manager.o
+                                        0x834 (size before relaxing)
+ .debug_str     0x0000000000000ffe      0xd3c ../release/obj/drawer.o
+                                       0x11ab (size before relaxing)
+ .debug_str     0x0000000000001d3a       0x6e ../release/obj/event.o
+                                        0x15f (size before relaxing)
+ .debug_str     0x0000000000001da8      0x5dd ../release/obj/event_listener.o
+                                        0xa3c (size before relaxing)
+ .debug_str     0x0000000000002385       0x84 ../release/obj/file_system.o
+                                        0x133 (size before relaxing)
+ .debug_str     0x0000000000002409       0xfb ../release/obj/heap.o
+                                        0x729 (size before relaxing)
+ .debug_str     0x0000000000002504      0xf58 ../release/obj/isr.o
+                                       0x250e (size before relaxing)
+ .debug_str     0x000000000000345c       0x51 ../release/obj/keyboard_event.o
+                                        0x267 (size before relaxing)
+ .debug_str     0x00000000000034ad      0x182 ../release/obj/keyboard_listener.o
+                                        0x92d (size before relaxing)
+ .debug_str     0x000000000000362f      0x516 ../release/obj/memory_manager.o
+                                        0x8cc (size before relaxing)
+ .debug_str     0x0000000000003b45      0x129 ../release/obj/my_file_system.o
+                                        0x28f (size before relaxing)
+ .debug_str     0x0000000000003c6e      0x26b ../release/obj/my_memory_manager.o
+                                        0x87e (size before relaxing)
+ .debug_str     0x0000000000003ed9       0x3c ../release/obj/pci_device.o
+                                        0x25f (size before relaxing)
+ .debug_str     0x0000000000003f15       0x77 ../release/obj/rmode.o
+                                        0x12f (size before relaxing)
+ .debug_str     0x0000000000003f8c       0x26 ../release/obj/stdlib.o
+                                        0x102 (size before relaxing)
+ .debug_str     0x0000000000003fb2      0x104 ../release/obj/storage_device.o
+                                        0x45c (size before relaxing)
+ .debug_str     0x00000000000040b6      0x126 ../release/obj/string.o
+                                        0x884 (size before relaxing)
+ .debug_str     0x00000000000041dc       0x3f ../release/obj/usb_device.o
+                                        0x23e (size before relaxing)
+ .debug_str     0x000000000000421b       0x7b ../release/obj/utils.o
+                                        0x4db (size before relaxing)
+ .debug_str     0x0000000000004296      0x5e5 ../release/obj/vesa.o
+                                        0xae6 (size before relaxing)
+ .debug_str     0x000000000000487b       0x53 ../release/obj/vga.o
+                                        0x4c1 (size before relaxing)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 ../release/obj/ata_device.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 ../release/obj/color.o
+ .comment       0x0000000000000000       0x12 ../release/obj/cursor.o
+ .comment       0x0000000000000000       0x12 ../release/obj/debug.o
+ .comment       0x0000000000000000       0x12 ../release/obj/devices_manager.o
+ .comment       0x0000000000000000       0x12 ../release/obj/drawer.o
+ .comment       0x0000000000000000       0x12 ../release/obj/event.o
+ .comment       0x0000000000000000       0x12 ../release/obj/event_listener.o
+ .comment       0x0000000000000000       0x12 ../release/obj/file_system.o
+ .comment       0x0000000000000000       0x12 ../release/obj/heap.o
+ .comment       0x0000000000000000       0x12 ../release/obj/isr.o
+ .comment       0x0000000000000000       0x12 ../release/obj/keyboard_event.o
+ .comment       0x0000000000000000       0x12 ../release/obj/keyboard_listener.o
+ .comment       0x0000000000000000       0x12 ../release/obj/memory_manager.o
+ .comment       0x0000000000000000       0x12 ../release/obj/my_file_system.o
+ .comment       0x0000000000000000       0x12 ../release/obj/my_memory_manager.o
+ .comment       0x0000000000000000       0x12 ../release/obj/pci_device.o
+ .comment       0x0000000000000000       0x12 ../release/obj/rmode.o
+ .comment       0x0000000000000000       0x12 ../release/obj/stdlib.o
+ .comment       0x0000000000000000       0x12 ../release/obj/storage_device.o
+ .comment       0x0000000000000000       0x12 ../release/obj/string.o
+ .comment       0x0000000000000000       0x12 ../release/obj/usb_device.o
+ .comment       0x0000000000000000       0x12 ../release/obj/utils.o
+ .comment       0x0000000000000000       0x12 ../release/obj/vesa.o
+ .comment       0x0000000000000000       0x12 ../release/obj/vga.o
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/ata_device.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/color.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/cursor.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/debug.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/devices_manager.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/drawer.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/event.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/event_listener.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/file_system.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/heap.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/isr.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/keyboard_event.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/keyboard_listener.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/memory_manager.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/my_file_system.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/my_memory_manager.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/pci_device.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/rmode.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/stdlib.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/storage_device.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/string.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/usb_device.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/utils.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/vesa.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 ../release/obj/vga.o
+
+.stab           0x0000000000000000      0x354
+ .stab          0x0000000000000000      0x270 ../release/obj/interrupt_handlers.o
+ .stab          0x0000000000000270       0xcc ../release/obj/pmode_kernel.o
+                                         0xd8 (size before relaxing)
+ .stab          0x000000000000033c        0xc ../release/obj/rmode_asm.o
+ .stab          0x0000000000000348        0xc ../release/obj/rmode_kernel.o
+
+.stabstr        0x0000000000000000       0x29
+ .stabstr       0x0000000000000000       0x29 ../release/obj/interrupt_handlers.o

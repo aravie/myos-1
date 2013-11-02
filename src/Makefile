@@ -32,5 +32,5 @@ all:
 
 
 clean: 
-	rm *.o
+	rm -rf *.o
 
