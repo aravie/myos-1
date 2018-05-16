@@ -4,7 +4,7 @@ Bootloader and monolithic kernel based on Linux kernel architecture written in
 2011.
 
 ## License
-**Authelia** is **licensed** under the **[MIT License]**. The terms of the license are as follows:
+**MyOS** is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
 
